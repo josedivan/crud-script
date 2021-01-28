@@ -9,11 +9,11 @@ editar e remover participante da lista.
  - **CSS3** 
   
  - **JavaScript** 
- 
- https://user-images.githubusercontent.com/60121964/106175913-6cd68c80-6175-11eb-8496-0c8984946333.mp4
 
  <br>
+ 
+ ## **Demonstração**
   
-
+![crud-img](https://user-images.githubusercontent.com/60121964/106174655-0866fd80-6174-11eb-8135-984f13c1d055.png)
 
 
